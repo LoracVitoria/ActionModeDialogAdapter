@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="act_add">Adicionar</string>
+    <string name="act_edit">Editar</string>
+    <string name="act_delete">Excluir</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="ok">OK</string>
+    <string name="item">Item</string>
+</resources>
